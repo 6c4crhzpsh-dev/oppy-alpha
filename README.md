@@ -16,3 +16,4 @@ Founder / Projektinhaberin: Blerina Krasniqi
 
 ## Status
 Alpha. Noch keine verbindliche Rechts-, Steuer-, Versicherungs- oder Anlageberatung.
+Deployment refresh: 03.09.2026
